@@ -1,0 +1,474 @@
+<mxfile host="app.diagrams.net" modified="2021-07-15T17:32:47.025Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="moLDGNOFe9HHeNHhbln4" version="14.8.6" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Hi, I&#39;m Haven Bot. I&#39;m here to empower your self care" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="SeSdbwgs3wSzXuHyBUq1-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="It&#39;s always a good time to focus on your health and happiness í ½í¸Š" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="{FirstName} Prompt" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="260" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="SeSdbwgs3wSzXuHyBUq1-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Thanks {FirstName}, I&#39;m glad you stopped by í ½í¸Œ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="SeSdbwgs3wSzXuHyBUq1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Before we get started, what&#39;s your first name?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="294" y="275" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-0" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-0" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-0" value="Thanks for spending some time with me today í ½í¸Š" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-2" value="It&#39;s good to see you invest in your health and happiness í ½í¸Š" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-6" value="Before we get started, what can I call you?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="275" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-9" target="SeSdbwgs3wSzXuHyBUq1-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-9" value="I&#39;m glad you&#39;re here, {FirstName} í ½í¸Œ" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310" y="392.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-11" value="It&#39;s nice to see you, {FirstName} í ½í¸Œ" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="392.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-20" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="SeSdbwgs3wSzXuHyBUq1-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="280" as="sourcePoint" />
+            <mxPoint x="460" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-21" target="SeSdbwgs3wSzXuHyBUq1-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-21" value="&lt;b&gt;Main Menu:&amp;nbsp;&lt;br&gt;What would you like to focus on today?&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310" y="470" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-24" target="SeSdbwgs3wSzXuHyBUq1-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="692.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-24" value="&lt;b&gt;Anxiety&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="590" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-26" target="f1o-j6oAEjoE-kBIeL3f-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-26" value="&lt;b&gt;Sleep&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" y="640" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-28" value="&lt;b&gt;Wellness&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="520" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-34" target="SeSdbwgs3wSzXuHyBUq1-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-34" value="Ok, I have a few techniques to help with anxiety" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-35" target="SeSdbwgs3wSzXuHyBUq1-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-35" value="&lt;b&gt;Select one of the options below and we can take a look:&amp;nbsp;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="85" y="880" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-38" target="SeSdbwgs3wSzXuHyBUq1-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-38" value="&lt;b&gt;Box Breathing&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-280" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-40" target="SeSdbwgs3wSzXuHyBUq1-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-40" value="&lt;b&gt;Manage The Body&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="174" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-42" target="f1o-j6oAEjoE-kBIeL3f-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-42" value="&lt;b&gt;Achievable goals&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-44" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="830" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-46" target="SeSdbwgs3wSzXuHyBUq1-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-46" value="{HelpType} Prompt" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="470" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-49" value="" style="endArrow=classic;html=1;exitX=0.892;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-35" target="SeSdbwgs3wSzXuHyBUq1-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="890" as="sourcePoint" />
+            <mxPoint x="430" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-50" value="" style="endArrow=classic;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;entryX=0.408;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-35" target="SeSdbwgs3wSzXuHyBUq1-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="890" as="sourcePoint" />
+            <mxPoint x="430" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-51" value="" style="endArrow=classic;html=1;exitX=0.833;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-21" target="SeSdbwgs3wSzXuHyBUq1-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="740" as="sourcePoint" />
+            <mxPoint x="610" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-52" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-21" target="SeSdbwgs3wSzXuHyBUq1-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="740" as="sourcePoint" />
+            <mxPoint x="610" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-53" target="SeSdbwgs3wSzXuHyBUq1-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-53" value="{AnxietySubType} Prompt" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="95" y="750" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-56" target="SeSdbwgs3wSzXuHyBUq1-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-56" value="Box breathing is a deep breathing technique that can help you slow down your breathing í ½í¸®â€í ½í²¨" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-280" y="1200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-58" target="SeSdbwgs3wSzXuHyBUq1-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-58" value="It works by distracting your mind as you count to four, calming your nervous system, and decreasing stress in your body í ½í¸Œ" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-280" y="1310" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-60" target="SeSdbwgs3wSzXuHyBUq1-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-60" target="SeSdbwgs3wSzXuHyBUq1-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-60" value="Would you like me to walk you through your first round of Square Breathing?" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-280" y="1430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-62" value="&lt;b&gt;Yes&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-410" y="1430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-64" target="SeSdbwgs3wSzXuHyBUq1-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-64" value="&lt;b&gt;No&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-260" y="1540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-66" target="SeSdbwgs3wSzXuHyBUq1-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-66" value="Ok, what would you like to do?" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-120" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-68" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="1535" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-70" value="&lt;b&gt;Let&#39;s review more anxiety techniques&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-60" y="1430" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-74" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-66" target="SeSdbwgs3wSzXuHyBUq1-70" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="1610" as="sourcePoint" />
+            <mxPoint y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-75" value="&lt;b&gt;All done for now&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-20" y="1650" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-76" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-66" target="SeSdbwgs3wSzXuHyBUq1-75" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="1610" as="sourcePoint" />
+            <mxPoint y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-78" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-70" target="SeSdbwgs3wSzXuHyBUq1-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="1240" as="sourcePoint" />
+            <mxPoint y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-79" target="SeSdbwgs3wSzXuHyBUq1-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-79" value="Step 1ï¸âƒ£: Breathe in counting to four slowly. Feel the air enter your lungs" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-590" y="1440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-81" target="SeSdbwgs3wSzXuHyBUq1-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-81" value="Step 2ï¸âƒ£: Hold your breath for 4 seconds. Try to avoid inhaling or exhaling for 4 seconds" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-590" y="1530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-83" target="SeSdbwgs3wSzXuHyBUq1-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-83" value="Step 3ï¸âƒ£: Slowly exhale through your mouth for 4 seconds." style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-590" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-530" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-85" value="Repeat this exercise as many times as you can. Even 30 seconds of deep breathing will help you feel more relaxed and in control.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-590" y="1710" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-87" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-62" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="1540" as="sourcePoint" />
+            <mxPoint x="-460" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-90" value="What would you like to do next?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-590" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-91" value="&lt;b&gt;Let&#39;s review more anxiety techniques&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-770" y="1960" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-92" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-575" y="1960" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-93" value="&lt;b&gt;All done for now&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-420" y="1960" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-94" value="" style="endArrow=classic;html=1;exitX=-0.017;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-90" target="SeSdbwgs3wSzXuHyBUq1-91" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="1950" as="sourcePoint" />
+            <mxPoint x="-510" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-95" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.503;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-90" target="SeSdbwgs3wSzXuHyBUq1-92" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="1950" as="sourcePoint" />
+            <mxPoint x="-510" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-96" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-90" target="SeSdbwgs3wSzXuHyBUq1-93" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="1950" as="sourcePoint" />
+            <mxPoint x="-510" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-97" target="SeSdbwgs3wSzXuHyBUq1-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-97" value="You might already be aware of how panic and anxiety are putting strains on your body, but still struggle to cope with your physical symptoms. Luckily, there are 3ï¸âƒ£ simple steps you can take to center yourself. Would you like to know more?" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="141" y="1160" width="186" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-99" target="SeSdbwgs3wSzXuHyBUq1-111" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-99" value="&lt;b&gt;Yes&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="1325" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-100" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-97" target="SeSdbwgs3wSzXuHyBUq1-99" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1410" as="sourcePoint" />
+            <mxPoint x="230" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-101" target="SeSdbwgs3wSzXuHyBUq1-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-101" value="&lt;b&gt;No&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="1185" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-104" target="SeSdbwgs3wSzXuHyBUq1-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-104" value="Ok, what would you like to do?" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="1199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-105" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="650" y="1184" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-106" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.345;entryY=0.879;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-104" target="SeSdbwgs3wSzXuHyBUq1-110" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1259" as="sourcePoint" />
+            <mxPoint x="604.9999999999998" y="1169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-107" value="&lt;b&gt;All done for now&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="580" y="1299" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-108" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-104" target="SeSdbwgs3wSzXuHyBUq1-107" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1259" as="sourcePoint" />
+            <mxPoint x="600" y="1209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-110" value="&lt;b&gt;Let&#39;s review more anxiety techniques&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="1080" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-111" target="SeSdbwgs3wSzXuHyBUq1-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-111" value="Ok, let&#39;s get started í ½í¸Œ1ï¸âƒ£Bring Your Awareness Elsewhere: When anxious physical sensations are on the rise, try to redirect your attention to something else. You might try to í ½í³žcall up a trusted loved one, í ¾í·˜â€â™‚ï¸do a few stretches, í ¼í¾§listen to some calm music, or í ¼í½¿watch a movie" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="225" y="1430" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-113" target="SeSdbwgs3wSzXuHyBUq1-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-113" value="2ï¸âƒ£Take Care of Yourself Physically: Even 10 minutes of í ½íº´í ¼í¿½â€â™€ï¸í ¾í´¼â€â™€ï¸í ¾íµ¾physical exercise can help relieve stress and tension felt throughout the body, increase energy levels, and improve mood. Stress-reducing relaxation exercises like yoga í ¾í·˜í ¼í¿¿â€â™€ï¸and meditation í ¾í·˜â€â™‚ï¸can also help you learn how to control your body sensations and remain calm in the face of anxiety.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="1672.5" width="160" height="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-115" target="SeSdbwgs3wSzXuHyBUq1-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-115" value="3ï¸âƒ£Seek Treatment: You deserve care and support. If you are experiencing symptoms of a panic disorder, it is important to reach out. A physician í ½í±©â€âš•ï¸ or qualified mental health specialist í ½í±¨í ¼í¿»â€âš•ï¸can help. By getting the support you need, you can learn how to most effectively manage your symptoms." style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="1910" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-117" target="SeSdbwgs3wSzXuHyBUq1-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-117" value="í ½í²í ¼í¿½â€â™€ï¸í ½í³ží ½í²í ¼í¿¼â€â™‚ï¸If you or a loved one are struggling with panic or anxiety, contact the Substance Abuse and Mental Health Services Administration (SAMHSA) National Helpline at 1-800-662-4357 for information on support and treatment facilities in your area.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="2140" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-119" value="What would you like to do next?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="2370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-120" value="&lt;b&gt;Let&#39;s review more anxiety techniques&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="2450" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-121" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="245" y="2460" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-122" value="&lt;b&gt;All done for now&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="410" y="2450" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-123" value="" style="endArrow=classic;html=1;exitX=-0.017;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-119" target="SeSdbwgs3wSzXuHyBUq1-120" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="2440" as="sourcePoint" />
+            <mxPoint x="320" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-124" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.503;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-119" target="SeSdbwgs3wSzXuHyBUq1-121" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="2440" as="sourcePoint" />
+            <mxPoint x="320" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-125" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-119" target="SeSdbwgs3wSzXuHyBUq1-122" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="2440" as="sourcePoint" />
+            <mxPoint x="320" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeSdbwgs3wSzXuHyBUq1-128" value="" style="endArrow=classic;html=1;exitX=0.885;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.111;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SeSdbwgs3wSzXuHyBUq1-35" target="SeSdbwgs3wSzXuHyBUq1-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1050" as="sourcePoint" />
+            <mxPoint x="600" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-0" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="757.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-2" value="When we struggle with mental health, sometimes the idea of completing tasks or achieving goals feels overwhelming í ¾íµµto the point where it seems easier to do almost nothing at all í ½í»Œí ½í³ºí ½í¸´I have some quick and easy suggestions to help you focus and keep moving forward. Would you like to learn more?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="1160" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-4" target="f1o-j6oAEjoE-kBIeL3f-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-4" value="&lt;b&gt;Yes&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="1340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-5" value="" style="endArrow=classic;html=1;exitX=0.045;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-2" target="f1o-j6oAEjoE-kBIeL3f-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1310" as="sourcePoint" />
+            <mxPoint x="750" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-8" target="f1o-j6oAEjoE-kBIeL3f-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-8" value="&lt;b&gt;No&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="993" y="1331" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-10" target="f1o-j6oAEjoE-kBIeL3f-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-10" value="Ok, what would you like to do?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1103" y="1345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-11" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1273" y="1330" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.345;entryY=0.879;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-10" target="f1o-j6oAEjoE-kBIeL3f-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173" y="1405" as="sourcePoint" />
+            <mxPoint x="1227.9999999999998" y="1315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-13" value="&lt;b&gt;All done for now&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1203" y="1445" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-10" target="f1o-j6oAEjoE-kBIeL3f-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173" y="1405" as="sourcePoint" />
+            <mxPoint x="1223" y="1355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-15" value="&lt;b&gt;Let&#39;s review more anxiety techniques&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1173" y="1226" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-16" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="f1o-j6oAEjoE-kBIeL3f-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="1300" as="sourcePoint" />
+            <mxPoint x="1050" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-17" target="f1o-j6oAEjoE-kBIeL3f-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-17" value="Great í ½í¸ŒFirst, let&#39;s make sure that your basic needs are met. When times are tough it can be challenging to do things like í ½í»€í ¼í¿¿bathing, changing yourí ½í±–clothes, eating nutritious í ¾íµ—food, or drinking enough í ½í²§water. If you haven&#39;t achieved these today, it&#39;s a great first step to improve your well-being.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="765" y="1440" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-19" target="f1o-j6oAEjoE-kBIeL3f-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-19" value="Try writing out a list í ½í³of these smaller tasks. Even completing them one at a time (with breaks in between!) is progress.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="765" y="1640" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-21" value="Now it&#39;s time to write down 2 or 3 small goals of your own. Make sure they&#39;re simple and easy to complete in the short term. You could try ordering groceries í ½í»’, calling a friend to catch up, taking the dog í ½í°• for a walk, checking your email í ½í³§, or whatever you think is best." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="757.5" y="1760" width="185" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
