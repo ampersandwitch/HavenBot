@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T17:59:08.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="MN8Dv4W91WXVXTsdwX7h" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T18:01:58.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KF-e8rG-uH-Tu_xt2KBV" version="14.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -774,6 +774,9 @@
             <mxPoint x="2227" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-122" target="f1o-j6oAEjoE-kBIeL3f-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f1o-j6oAEjoE-kBIeL3f-122" value="How you prepare for bed can determine how easily youâ€™ll be able to fall asleep í ½í¸´ My pre-sleep playbook includes some tips to put you at ease and make it easier to get to fall asleep when you want to. Would you like to learn more?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1740" y="737.35" width="134" height="172.81" as="geometry" />
         </mxCell>
@@ -817,6 +820,69 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1760" y="890" as="sourcePoint" />
             <mxPoint x="1810" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-138" target="f1o-j6oAEjoE-kBIeL3f-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-138" value="&lt;b&gt;Yes&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1920" y="783.76" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-140" target="f1o-j6oAEjoE-kBIeL3f-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-140" value="Ok, great. The most important thing is to Keep Your Routine Consistent: Following the same steps each night, including things like putting on your pajamas í ¾í¹³ and brushing your teeth í ½í¸, can reinforce in your mind that itâ€™s bedtime í ½í»Œ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2060" y="731.87" width="120" height="183.76" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-142" target="f1o-j6oAEjoE-kBIeL3f-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-142" value="Budget 30 Minutes For Winding Down: Take advantage of whatever puts you in a state of calm such as soft music, light stretching, reading, and/or relaxation exercises This is a good time to dim your lights and unplug from any electronic devices í ½í±©í ¼í¿»â€í ½í²»í ½í³±í ½í³º (they can hinder the production of melatonin, a hormone that the body creates to facilitate sleep)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2210" y="686.1" width="120" height="275.3" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-146" target="f1o-j6oAEjoE-kBIeL3f-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-146" value="Test Methods of Relaxation: Instead of making falling asleep your only goal, it can be easier to focus on relaxation. Meditation, mindfulness, paced breathing, and other relaxation techniques can put you in the right mindset for bed" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2361" y="736.8100000000001" width="120" height="173.9" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-148" value="Donâ€™t Toss and Turn: It helps to have a healthy mental connection between being in bed and actually being asleep. For that reason, if after 20 minutes you havenâ€™t gotten to sleep, get up and stretch í ½í¹†â€â™‚ï¸, read í ½í³š, or do something else calming in low light before trying to fall asleep again" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2510" y="743.68" width="180" height="160.16" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-150" value="What would you like to do next?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2543" y="947" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-151" value="&lt;b&gt;Let&#39;s review more sleep techniques&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2440" y="1012" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-152" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2558" y="1027" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-153" value="&lt;b&gt;All done for now&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2653" y="1027" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-154" value="" style="endArrow=classic;html=1;exitX=-0.017;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-150" target="f1o-j6oAEjoE-kBIeL3f-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2600" y="1017" as="sourcePoint" />
+            <mxPoint x="2650" y="967" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-155" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.503;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-150" target="f1o-j6oAEjoE-kBIeL3f-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2600" y="1017" as="sourcePoint" />
+            <mxPoint x="2650" y="967" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-156" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-150" target="f1o-j6oAEjoE-kBIeL3f-153">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2600" y="1017" as="sourcePoint" />
+            <mxPoint x="2650" y="967" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-158" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.475;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-148" target="f1o-j6oAEjoE-kBIeL3f-150">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2420" y="950" as="sourcePoint" />
+            <mxPoint x="2470" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
