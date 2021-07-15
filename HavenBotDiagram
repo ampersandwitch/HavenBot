@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T18:01:58.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KF-e8rG-uH-Tu_xt2KBV" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T18:05:15.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="7sF_ns2BsBW3xd4OB2Qc" version="14.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,8 +579,11 @@
         <mxCell id="f1o-j6oAEjoE-kBIeL3f-66" value="&lt;b&gt;Follow a Nightly Routine&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1570" y="793.755" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-68" target="f1o-j6oAEjoE-kBIeL3f-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f1o-j6oAEjoE-kBIeL3f-68" value="&lt;b&gt;Cultivate Healthy Daily Habits&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1430" y="999.995" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="969.505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f1o-j6oAEjoE-kBIeL3f-70" value="" style="endArrow=classic;html=1;exitX=0.867;exitY=1.054;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-58" target="f1o-j6oAEjoE-kBIeL3f-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -884,6 +887,44 @@
             <mxPoint x="2420" y="950" as="sourcePoint" />
             <mxPoint x="2470" y="900" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-159" target="f1o-j6oAEjoE-kBIeL3f-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-159" value="I&#39;m so proud of you for researching ways to feel happier and more rested í ¾í´—Itâ€™s not just bedtime habits that play a part in getting good sleep, you know. Incorporating positive routines during the day supports your circadian rhythm and limits sleep disruptions. Are you interested in learning more?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="1085" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-161" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-68" target="f1o-j6oAEjoE-kBIeL3f-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="1050" as="sourcePoint" />
+            <mxPoint x="1720" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-162" target="f1o-j6oAEjoE-kBIeL3f-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-162" value="&lt;b&gt;Yes&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1670" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-164" target="f1o-j6oAEjoE-kBIeL3f-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-164" value="Wonderful í ½í¸ŠI&#39;m glad you&#39;re still with me. You might already know that smoking, alcohol, and caffeine consumption have all been linked to numerous sleeping problems. I know it&#39;s not as easy as it sounds, but if you&#39;re able to reduce or eliminate your use of these substances, it&#39;s a significant investment in your journey to improved sleep quality and overall wellness." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1590" y="1255" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-166" target="f1o-j6oAEjoE-kBIeL3f-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-166" value="Next, regular exercise (3ï¸âƒ£or more times per week) and sunlight exposure í ½í¸Ž(10â€“30 minutes of midday sunlight, several times per week - make sure to wear sunscreen í ½í¸Š) have been linked to many positive health outcomes. Improved sleep duration and quality are among them!" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1874" y="1267.5" width="240" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2275" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-168" value="Finally, make sure to optimize your bedroom for great sleep. Select a comfortable mattress í ½í», pillow, and bedding . Select a cool yet comfortable temperature, use blackout curtains if you have them, and minimize noise as much as possible. You can even try light aromatherapy scents like lavender, which may induce a calmer state of mind and help cultivate a positive space for sleep í ¼í¼ƒ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2152.5" y="1253.75" width="245" height="152.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
