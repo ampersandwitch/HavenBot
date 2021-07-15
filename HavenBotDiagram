@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T17:53:33.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="a76cWp2bJ6BjydUWoyE_" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T17:56:20.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="iqCui09lTwTuP7FUM12S" version="14.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -669,6 +669,9 @@
         <mxCell id="f1o-j6oAEjoE-kBIeL3f-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-92" target="f1o-j6oAEjoE-kBIeL3f-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-92" target="f1o-j6oAEjoE-kBIeL3f-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f1o-j6oAEjoE-kBIeL3f-92" value="Having a set schedule normalizes sleep as an essential part of your day and gets your brain and body accustomed to getting the full amount of sleep that you need. Would you like tips for building a sleep schedule?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1480" y="360" width="120" height="160.01" as="geometry" />
         </mxCell>
@@ -706,6 +709,66 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1660" y="530" as="sourcePoint" />
             <mxPoint x="1710" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-104" target="f1o-j6oAEjoE-kBIeL3f-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-104" value="&lt;b&gt;Yes&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1500" y="245" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-106" target="f1o-j6oAEjoE-kBIeL3f-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-106" value="Ok, let&#39;s do this. í ¾íµ±í ½í¸´í ½í¸Œ1ï¸âƒ£Have a Fixed Wake-Up Time: Try to wake up at the same í ½íµ£time (even if it&#39;s the weekend!) since a fluctuating schedule keeps you from getting into a rhythm of consistent sleep" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1450" y="90" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-108" target="f1o-j6oAEjoE-kBIeL3f-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-108" value="2ï¸âƒ£Prioritize Sleep: It might be tempting to skip sleep to work, study, socialize, or exercise, but itâ€™s vital to treat sleep as a priority. Calculate a target bedtime based on your fixed wake-up time and do your best to be ready for bed í ½í»Œí ¼í¼™around that time each night" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1670" y="80" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-110" target="f1o-j6oAEjoE-kBIeL3f-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-110" value="3ï¸âƒ£Make Gradual Adjustments: If you want to shift your sleep times, donâ€™t try to do it all in one fell swoop. This can throw your schedule out of whack. Instead, make small, step-by-step adjustments of up to an hour or two so that you can get adjusted and settle into your new schedule" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1888" y="70" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-112" target="f1o-j6oAEjoE-kBIeL3f-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-112" value="4ï¸âƒ£Donâ€™t Overdo It With Naps: Naps can be a handy way to regain energy during the day, but they can throw off sleep at night. To avoid this, try to keep naps relatively short and limited to the early afternoon" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2090" y="80" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-114" value="What would you like to do next?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2120" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-115" value="&lt;b&gt;Let&#39;s review more sleep techniques&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2017" y="325" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-116" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2135" y="340" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-117" value="&lt;b&gt;All done for now&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2230" y="340" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-118" value="" style="endArrow=classic;html=1;exitX=-0.017;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-114" target="f1o-j6oAEjoE-kBIeL3f-115">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2177" y="330" as="sourcePoint" />
+            <mxPoint x="2227" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-119" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.503;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-114" target="f1o-j6oAEjoE-kBIeL3f-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2177" y="330" as="sourcePoint" />
+            <mxPoint x="2227" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-120" value="" style="endArrow=classic;html=1;exitX=0.998;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-114" target="f1o-j6oAEjoE-kBIeL3f-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2177" y="330" as="sourcePoint" />
+            <mxPoint x="2227" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
