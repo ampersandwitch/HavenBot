@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T17:40:08.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Xi_Dbd79bEN-eaO3vrR5" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T17:43:53.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mRj7gzWioIlxqkqzYhBW" version="14.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SeSdbwgs3wSzXuHyBUq1-42" value="&lt;b&gt;Achievable goals&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="920" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SeSdbwgs3wSzXuHyBUq1-44" value="&lt;b&gt;Back to the main menu&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="830" width="90" height="90" as="geometry" />
@@ -393,6 +393,9 @@
         <mxCell id="f1o-j6oAEjoE-kBIeL3f-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-0" target="f1o-j6oAEjoE-kBIeL3f-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-0" target="f1o-j6oAEjoE-kBIeL3f-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f1o-j6oAEjoE-kBIeL3f-0" value="Nearly 1ï¸âƒ£out of 5ï¸âƒ£people sometimes have trouble with insomnia. í ½í¸´í ¾íµ±It&#39;s often hard to say why someone is sleeping poorly. Using relaxation techniques and changing sleeping habits can help you fall asleep faster and get more restful sleep, though. Would you like to learn more?" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="757.5" width="260" height="132.5" as="geometry" />
         </mxCell>
@@ -538,6 +541,39 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="910" as="sourcePoint" />
             <mxPoint x="540" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-54" target="f1o-j6oAEjoE-kBIeL3f-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-54" value="&lt;b&gt;Yes&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="783.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-56" target="f1o-j6oAEjoE-kBIeL3f-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-56" value="I have a few suggestions to help with insomnia" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1153" y="795.63" width="120" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-58" value="Which would you like to try first?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1303" y="793.755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-60" value="What is Sleep Hygiene?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1303" y="519.995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-62" value="Set Your Sleep Schedule" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1480" y="600.005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-64" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f1o-j6oAEjoE-kBIeL3f-58" target="f1o-j6oAEjoE-kBIeL3f-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="830" as="sourcePoint" />
+            <mxPoint x="1480" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f1o-j6oAEjoE-kBIeL3f-65" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="790" as="sourcePoint" />
+            <mxPoint x="1360" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
